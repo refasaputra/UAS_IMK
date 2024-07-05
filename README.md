@@ -6,4 +6,4 @@
 
 ## Link Prototype
 
-https://www.figma.com/proto/FUEMUsrFkovBmevDnxxXMU/Untitled?node-id=24-690&t=xQiAJU5UoUFgoBzV-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1
+https://www.figma.com/proto/FUEMUsrFkovBmevDnxxXMU/Untitled?node-id=24-349&t=7XTXQy0bXEh2v8lP-1
