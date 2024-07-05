@@ -1,9 +1,9 @@
 # UAS IMK
 ## Nama :
-- Taufik Hidayat
-- Dani Hermawan
-- Maulana Ismail
+- MUHAMMAD REFA SAPUTRA
+- RIFA ANDIANI MEILAWATI YULIANTO
+- RAFI SUSWIDIA
 
 ## Link Prototype
 
-https://www.figma.com/proto/FUEMUsrFkovBmevDnxxXMU/Untitled?node-id=24-349&t=7XTXQy0bXEh2v8lP-1
+https://www.figma.com/proto/4fJQcXHqkMNUphHb9t7tj1/Warteg-Gen-Z?node-id=35-172&t=HmjjHBH1BbKnxaeL-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1
